@@ -2,6 +2,12 @@
 
 This is an informal contract to ensure that all team members have a common understanding of what is expected in terms of work standards, communication, division or work, and conflict resolution.
 
+## Team Name
+
+*What will the name of your team be?*
+
+- Team name: 
+
 ## Team Members
 
 - Name of member A:
