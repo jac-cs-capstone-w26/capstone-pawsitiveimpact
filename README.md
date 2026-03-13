@@ -9,9 +9,9 @@
 
 ## Getting started
 
-- Create a branch called `main`
-- Make it the default branch
+- Create a branch called `m1`
 - As a group, edit the template markdown files in `docs/milestone-1`
+- Commit/push your changes to `m1` as you progress.
 
 ## Further instructions
 
