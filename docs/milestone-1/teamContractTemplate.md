@@ -28,6 +28,8 @@ Weakness: I sometimes take too much time on tasks because I want to make sure ev
   Weakness: Try to manage people because I am fearful they will forget on their own
 
 - C:
+  Strength: I work well under pressure and can prioritize tasks effectively to meet deadlines.
+  Weakness: I tend to work last minute because I procrastinate a lot which can create stress for themselves and the team.
 
 ## Definition of “good enough” for this project
 
@@ -45,6 +47,7 @@ _How will each member contribute to the project?_
   I will do my fair share of work, we will split the work equally so nobody does much more than the other and I will complete all my assigned tasks whether that's code implementation or other necessary procedures.
 
 - C:
+- I will contribute by completing my part of the work. I will also help with splitting the task to make sure we all have the same amount of work. Also, I will make sure to stay free to help my teammates. 
 
 ## Frequency of communication
 
@@ -68,7 +71,7 @@ _(If unsure, assume a hypothetical situation such as you have not completed your
 
 - B: I prefer when someone asks me the reason of my implementation: _"Hello, I have some feedback I wanted you to know about the X feature you implemented, I prefer you did A way instead of your B way, is there a reason you did the B way?"_
 
-- C:
+- C: I prefer that the feedback to be direct but respectful. Example: "Hey, I noticed that you havent done this part/finish this part. Do you think you will have it done soon or do you want some help?"
 
 ## In case of conflict
 
