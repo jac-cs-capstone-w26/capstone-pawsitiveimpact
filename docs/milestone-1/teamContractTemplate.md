@@ -47,7 +47,7 @@ _How will each member contribute to the project?_
   I will do my fair share of work, we will split the work equally so nobody does much more than the other and I will complete all my assigned tasks whether that's code implementation or other necessary procedures.
 
 - C:
-- I will contribute by completing my part of the work. I will also help with splitting the task to make sure we all have the same amount of work. Also, I will make sure to stay free to help my teammates. 
+  I will contribute by completing my part of the work. I will also help with splitting the task to make sure we all have the same amount of work. Also, I will make sure to stay free to help my teammates. 
 
 ## Frequency of communication
 
