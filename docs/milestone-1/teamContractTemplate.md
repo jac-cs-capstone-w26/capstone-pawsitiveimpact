@@ -24,6 +24,9 @@ _Within the context of this project, what are the strengths and weaknesses that 
 Weakness: I sometimes take too much time on tasks because I want to make sure everything works correctly.
 
 - B:
+  Strength: I am reliable because I complete my work on time and often times in advance
+  Weakness: Try to manage people because I am fearful they will forget on their own
+
 - C:
 
 ## Definition of “good enough” for this project
@@ -38,22 +41,22 @@ _How will each member contribute to the project?_
 
 - A: I will contribute by implementing features, debugging issues, and testing the application to ensure it works correctly. I will also help organize the work and make sure tasks are completed on time.
 
-- A: I will contribute by implementing features, debugging issues, and testing the application to ensure it works correctly. I will also help organize the work and make sure tasks are completed on time.
-
 - B:
+  I will do my fair share of work, we will split the work equally so nobody does much more than the other and I will complete all my assigned tasks whether that's code implementation or other necessary procedures.
+
 - C:
 
 ## Frequency of communication
 
 _How often will the team be in touch and what tools will be used to communicate?_
 
-The team will communicate whenever tasks are completed or if someone has questions, to share updates and make sure everyone stays aligned with the project.
+The team will communicate whenever tasks are completed or if someone has questions, to share updates and make sure everyone stays aligned with the project. The tools are personal contacts and Teams.
 
 ## Response delays
 
 _What is a reasonable delay to reply to messages? Is it the same for weekdays and weekends?_
 
-A reasonable delay to reply to messages would be within the same day, both on weekdays and weekends, unless someone is unavailable or busy.
+A reasonable delay to reply to messages would be within the same day, both on weekdays and weekends, unless someone is unavailable or busy. If the deadline is approaching soon, the person should respond much quicker if they still didn't complete their task, so within 30 mins ideally.
 
 ## Receiving feedback
 
@@ -63,9 +66,8 @@ _(If unsure, assume a hypothetical situation such as you have not completed your
 
 - A: I prefer feedback to be direct and respectful. For example: _“Hey, I noticed this task isn’t finished yet. Do you think you will be able to complete it soon or do you need help?”_
 
-- A: I prefer feedback to be direct and respectful. For example: _“Hey, I noticed this task isn’t finished yet. Do you think you will be able to complete it soon or do you need help?”_
+- B: I prefer when someone asks me the reason of my implementation: _"Hello, I have some feedback I wanted you to know about the X feature you implemented, I prefer you did A way instead of your B way, is there a reason you did the B way?"_
 
-- B:
 - C:
 
 ## In case of conflict
